@@ -11,7 +11,8 @@ Helllo , and Welcome to my simple Repo.
 8-https://glamordental.leads-sa.com/
 9-https://nawara.leads-sa.com/beauty/
 10-https://pearlsclinic.com/
-11- https://aclinic.leads-sa.com/beauty/ (unfinished)
+11-https://ahmed.whitepearlclinic.net/tank/
+12- https://aclinic.leads-sa.com/beauty/ (unfinished)
 ...above projects that are Published ...
 
 ⭐️ And there is some Advanced Local Projects that i work on it in my loacla device. 
