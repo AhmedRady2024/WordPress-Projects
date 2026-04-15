@@ -11,8 +11,7 @@ Helllo , and Welcome to my simple Repo.
 *-https://teatro-agency.com/
 
 *-https://aclinic.leads-sa.com/dr-abdelhameed/
-*-https://ahmed.whitepearlclinic.net/portfolio/
-*-https://ahmed.whitepearlclinic.net/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/
+
 
 -(Landing Pages)-
 *-https://ahmed.whitepearlclinic.net/bomb/
@@ -29,6 +28,8 @@ Helllo , and Welcome to my simple Repo.
 *- https://aclinic.leads-sa.com/beauty/
 *-https://www.memar-almughamis.free.nf/?i=1
 *-https://www.memar-almughamis.free.nf/ar/memar-2/
+*-https://ahmed.whitepearlclinic.net/portfolio/
+*-https://ahmed.whitepearlclinic.net/%d8%a7%d9%84%d8%b1%d8%a6%d9%8a%d8%b3%d9%8a%d8%a9/
 ...above projects that are Published ...
 
 ⭐️ And there is some Advanced Local Projects that i work on it in my loacla device. 
