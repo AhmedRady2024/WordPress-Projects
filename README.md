@@ -10,12 +10,12 @@ Helllo , and Welcome to my simple Repo.
 
 *-https://teatro-agency.com/
 
-*-https://aclinic.leads-sa.com/dr-abdelhameed/
 
 
-https://leads-sa.com/AClinic/
+*-https://leads-sa.com/AClinic/
 
 -(Landing Pages)-
+
 *-https://aclinic.leads-sa.com/dr-abdelhameed/
 *-https://aclinic.leads-sa.com/
 *-https://ranceclinic.com/
